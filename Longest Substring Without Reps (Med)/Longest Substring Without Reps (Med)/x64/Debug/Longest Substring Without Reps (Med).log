@@ -1,0 +1,5 @@
+﻿  Longest Substring Without Reps (Med).cpp
+C:\Leet code\Longest Substring Without Reps (Med)\Longest Substring Without Reps (Med)\Solution.hpp(39,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Longest%20Substring%20Without%20Reps%20(Med).cpp')
+  
+  Longest Substring Without Reps (Med).vcxproj -> C:\Leet code\Longest Substring Without Reps (Med)\x64\Debug\Longest Substring Without Reps (Med).exe
